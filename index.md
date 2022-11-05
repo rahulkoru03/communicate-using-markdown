@@ -11,7 +11,7 @@ int main()
 ```
 
 #### Task List
-- [x] Turn on GitHub Pages
+- [ ] Turn on GitHub Pages
 - [x] Added user profile picture
 - [x] Added code block to file
 - [x] Added Task List to code
